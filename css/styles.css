@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family:'Merriweather', serif;
+}
+
+h1{
+  padding: 100px;
+
+  font-family: 'Sacramento',cursive;
+}
+
+.top-container{
+  background-color: #DEF5E5;
+  padding: 20px;
+  padding-top: 50px;
+}
+
+.p1{
+  font-family: 'Montserrat'
+}
+
+.middle-container{
+    font-family: 'Montserrat';
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: relative;
+  left: 200px;
+}
+
+.profilepic{
+  border-radius: 50%;
+}
